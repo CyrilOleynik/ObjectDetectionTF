@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>bike_122_jpg.rf.858fd7512b550a3e8319ba65e056555f.jpg</filename>
+	<path>/Users/kirill/Projects/DeepLearingComputerVision/TensorFlowObjectDetection/images/test/bike_122_jpg.rf.858fd7512b550a3e8319ba65e056555f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2151</width>
+		<height>1182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>120</ymin>
+			<xmax>2101</xmax>
+			<ymax>1182</ymax>
+		</bndbox>
+	</object>
+</annotation>
