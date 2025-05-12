@@ -23,5 +23,6 @@ dependencies:
       - tf-models-official==2.10.0
       - apache-beam==2.42.0
       - avro-python3==1.10.2
-      - pyparsing==2.4.7cd
+      - pyparsing==2.4.7
       - labelImg
+      - absl-py
