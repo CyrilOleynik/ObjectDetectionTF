@@ -43,7 +43,7 @@ pre-trained-models/
    Refer to the [documentation section](
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html#configure-the-training-pipeline)
    for details.
-2. Training the Model. This step takes a lot of time, so be aware — it can take more than 6 hours.
+2. Training the Model. This step takes a lot of time, so be aware — it can take hours.
 
 ```bash
 python scripts/train_model.py \

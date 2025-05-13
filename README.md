@@ -27,7 +27,7 @@ This repository provides a framework to:
 | 2       | Laptop           | Add frames where the screen is clearly visible  |
 | 3       | Wallet           | Include both opened and closed wallet images    |
 | 4       | Keyboard         | Add both full-size and mini keyboard examples   |
-| 5       | Notebook         | Include images with handwritten text            |
+| 5       | Notepad          | Include images with handwritten text            |
 
 ## 📁 Repository Structure
 
@@ -49,7 +49,7 @@ ObjectDetectionTF/
 ## 📚 Documentation
 
 - [Environment Setup](docs/environment_setup.md)
-- [Run Demo](docs/demo.md)
+- [Run Demo: Object Detection From TF2 Saved Model](docs/demo.md)
 - [Training Custom Object Detector](docs/training_custom_object_detector.md)
 - [Model Validation](docs/validation.md)
 

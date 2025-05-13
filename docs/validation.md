@@ -25,14 +25,12 @@ Detected objects should be annotated.
 
 After running the script, the annotated images with detected objects, bounding boxes, and labels will be displayed.
 
-** 🖼️ Input Image:**
-```
-images/test/bus.jpg
-```
+### ** 🖼️ Input Image:**
 
-** 🖼️ Output (annotated):**
-```
-output/bus_annotated.jpg
-```
+![Input Image](Figure_1.jpg)
+
+### ** 🖼️ Output (annotated):**
+
+![Output (annotated)](Figure_1_annotated.png)
 
 ---
